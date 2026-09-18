@@ -40,5 +40,4 @@ Or paste the code into a [Google Colab](https://colab.research.google.com) noteb
 - Add cross-validation instead of a single train/test split for more robust evaluation
 
 ## Author
-
-*[Your name here]*
+eshaan kale
